@@ -23,16 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imageminspirada na música "Imagine" de John Lennon
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatgpt
+bing.com
+animoto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+usei obing.com para criar a imagem e oanimoto para inserir a música Imagine na imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma imagem lúdica com pessoas alegres que transmite otimismo.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
